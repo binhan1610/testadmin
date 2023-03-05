@@ -1,0 +1,11 @@
+table,tr,td{
+    border: 1px solid;
+}
+.Add{
+display:flex;
+justify-content: center;    
+}
+.Add input{
+    height: 20px;
+    
+}
